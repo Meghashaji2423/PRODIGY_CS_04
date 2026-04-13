@@ -9,19 +9,6 @@
 > Only use on your own computer or with explicit written permission. 
 > Unauthorized keylogging is ILLEGAL and violates privacy laws.
 
-## 📖 Table of Contents
-- [Overview](#overview)
-- [What is a Keylogger?](#what-is-a-keylogger)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Installation](#installation)
-- [Usage Guide](#usage-guide)
-- [Example Output](#example-output)
-- [Ethical Guidelines](#ethical-guidelines)
-- [Protection Against Keyloggers](#protection-against-keyloggers)
-- [Technical Details](#technical-details)
-- [Troubleshooting](#troubleshooting)
-- [Legal Disclaimer](#legal-disclaimer)
 
 ## 🎯 Overview
 
